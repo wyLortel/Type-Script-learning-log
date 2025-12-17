@@ -1,0 +1,25 @@
+{
+  "name": "type-script-learning-log",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000L\u0000e\u0000a\u0000r\u0000n\u0000i\u0000n\u0000g\u0000-\u0000T\u0000y\u0000p\u0000e\u0000-\u0000S\u0000c\u0000r\u0000i\u0000p\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyLortel/Type-Script-learning-log.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wyLortel/Type-Script-learning-log/issues"
+  },
+  "homepage": "https://github.com/wyLortel/Type-Script-learning-log#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
